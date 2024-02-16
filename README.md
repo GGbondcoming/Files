@@ -12,6 +12,7 @@
 `git commit`
 `git log`
 `git push origin main`
+`git push --force origin main`
 
 hahahaha
 jsjsj
